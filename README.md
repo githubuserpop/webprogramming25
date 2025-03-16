@@ -1,13 +1,9 @@
-# Vue 3 Personal Portfolio Website
-
-A modern, responsive personal portfolio website built with Vue.js 3, featuring theme toggling, persistent state management, and a clean, modular design.
+# Vue 3 Personal Portfolio
 
 ## Features
 
-- **Responsive Design**: Adapts seamlessly to different screen sizes and devices
 - **Theme Toggling**: Switch between light and dark themes
 - **Persistent State**: User preferences and content are saved in local storage
-- **Component-Based Architecture**: Modular and maintainable code structure
 - **Pinia State Management**: Centralized state management with persistence
 - **Modern UI**: Clean and attractive interface using NaiveUI components
 
